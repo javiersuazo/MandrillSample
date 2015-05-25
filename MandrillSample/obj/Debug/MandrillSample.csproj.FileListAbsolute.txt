@@ -1,0 +1,16 @@
+c:\users\javier\documents\visual studio 2012\Projects\MandrillSample\MandrillSample\bin\Debug\MandrillSample.exe.config
+c:\users\javier\documents\visual studio 2012\Projects\MandrillSample\MandrillSample\obj\Debug\MandrillSample.csprojResolveAssemblyReference.cache
+c:\users\javier\documents\visual studio 2012\Projects\MandrillSample\MandrillSample\bin\Debug\MandrillSample.exe
+c:\users\javier\documents\visual studio 2012\Projects\MandrillSample\MandrillSample\bin\Debug\MandrillSample.pdb
+c:\users\javier\documents\visual studio 2012\Projects\MandrillSample\MandrillSample\bin\Debug\Mandrill.dll
+c:\users\javier\documents\visual studio 2012\Projects\MandrillSample\MandrillSample\bin\Debug\Newtonsoft.Json.dll
+c:\users\javier\documents\visual studio 2012\Projects\MandrillSample\MandrillSample\bin\Debug\Mandrill.xml
+c:\users\javier\documents\visual studio 2012\Projects\MandrillSample\MandrillSample\bin\Debug\Newtonsoft.Json.xml
+c:\users\javier\documents\visual studio 2012\Projects\MandrillSample\MandrillSample\obj\Debug\MandrillSample.exe
+c:\users\javier\documents\visual studio 2012\Projects\MandrillSample\MandrillSample\obj\Debug\MandrillSample.pdb
+c:\users\javier\documents\visual studio 2012\Projects\MandrillSample\MandrillSample\bin\Debug\Flurl.dll
+c:\users\javier\documents\visual studio 2012\Projects\MandrillSample\MandrillSample\bin\Debug\Flurl.Http.dll
+c:\users\javier\documents\visual studio 2012\Projects\MandrillSample\MandrillSample\bin\Debug\Flurl.pdb
+c:\users\javier\documents\visual studio 2012\Projects\MandrillSample\MandrillSample\bin\Debug\Flurl.xml
+c:\users\javier\documents\visual studio 2012\Projects\MandrillSample\MandrillSample\bin\Debug\Flurl.Http.pdb
+c:\users\javier\documents\visual studio 2012\Projects\MandrillSample\MandrillSample\bin\Debug\Flurl.Http.xml
